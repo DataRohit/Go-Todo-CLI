@@ -1,4 +1,4 @@
-# Go ToDo CLI
+# Go Todo CLI
 
 ```bash
 (base) datarohit@DataRohit:~/Desktop/Go-ToDo-CLI$ go run main.go --help
