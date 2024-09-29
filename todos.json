@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Create a TODO CLI using Go Lang",
+        "Completed": true,
+        "CreatedAt": "2024-09-29T13:39:26.353080925+05:30",
+        "CompletedAt": "2024-09-29T13:40:29.723261439+05:30"
+    },
+    {
+        "Title": "Add Toggle \u0026 List Functionality",
+        "Completed": false,
+        "CreatedAt": "2024-09-29T13:40:17.987530731+05:30",
+        "CompletedAt": null
+    }
+]
